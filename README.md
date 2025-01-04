@@ -22,9 +22,9 @@ Try on nails for free before paying $$$ to get them done professionally or inves
 
 ## Credits/Contact
 
-This humorous project is dedicated to my ECE241 lab partner, who gave me the inspiration for this project.
+This humorous little project is dedicated to my ECE241 lab partner, who gave me the inspiration for this project.
 
-However, this project was researched, designed, and implemented by Sophia Alexanian (me!). I wanted to practice using voice recognition and computer vision libraries in Python.   
+However, this project was designed and implemented by Sophia Alexanian (me!). I wanted to practice using voice recognition and computer vision libraries in Python.   
 I can be reached here:  
 LinkedIn: https://www.linkedin.com/in/sophia-alexanian/   
 Email: sophia.alexanian@mail.utoronto.ca
