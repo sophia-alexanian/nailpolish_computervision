@@ -1,8 +1,10 @@
 # Nail Style Visualizer
 
-## See what different nail shapes and colours look like on your nails!
+## See what different polish colours look like on your nails!
 
-![Sample pictures of combinations](assets/Data_Flowchart.png)
+![Sample pictures of combinations](assets/pink_nails.png)
+![Sample pictures of combinations](assets/green_nails.png)
+![Sample pictures of combinations](assets/purple_nails.png)
 
 [Back to Top](#nail-style-visualizer)
 
@@ -10,8 +12,7 @@
 
 No need to lower your hands and type lengthy commands or scroll through different combinations to try on nails! Simply press one button and tell it what you want to see!
 
-'C' to say what colour you want (with the whole rainbow available!).
-'S' to say what shape you want (before you need to file your nails!).
+Press 'c' to say what colour you want (with the whole rainbow available!).
 
 [Back to Top](#nail-style-visualizer)
 
@@ -19,19 +20,11 @@ No need to lower your hands and type lengthy commands or scroll through differen
 
 Try on nails for free before paying $$$ to get them done professionally or invest in a new colour of nail polish.
 
-## Sold? Here's how to use on your local machine!
-
-*Note: this tutorial assumes you have the capability to run python scripts on your local machine in terminal*
-
-*steal instructions about cloning from Robert*
-
-[Back to Top](#nail-style-visualizer)
-
 ## Credits/Contact
 
-This project is dedicated to [Robert Zupancic](https://www.linkedin.com/in/robert-zupancic/), fellow UofT engineering student (and my ECE241 lab partner), who gave me the inspiration for this project.
+This humorous project is dedicated to [Robert Zupancic](https://www.linkedin.com/in/robert-zupancic/), fellow UofT engineering student (and my ECE241 lab partner), who gave me the inspiration for this project.
 
-However, this project was researched, designed, and implemented by Sophia Alexanian (me!).    
+However, this project was researched, designed, and implemented by Sophia Alexanian (me!). I wanted to practice using voice recognition and computer vision libraries in Python.   
 I can be reached here:  
 LinkedIn: https://www.linkedin.com/in/sophia-alexanian/   
 Email: sophia.alexanian@mail.utoronto.ca
