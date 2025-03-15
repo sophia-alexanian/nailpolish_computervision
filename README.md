@@ -29,7 +29,5 @@ I can be reached here:
 LinkedIn: https://www.linkedin.com/in/sophia-alexanian/   
 Email: sophia.alexanian@mail.utoronto.ca
 
-P.S. My lab partner and I created a piano and drum kit simulator for FPGA using Verilog for our final ECE241 project. If you're interested in seeing my work in a hardware description language (as opposed to a high-level programming language), feel free to check out our (censored for academic integrity purposes) work [here](https://github.com/RoZ4/Pianissimo-for-the-FPGA).
-
 [Back to Top](#nail-style-visualizer)
 
